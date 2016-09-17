@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Fulcrum Coffee</string>
+    <string name="title_activity_main">Fulcrum Coffee</string>
+    <string name="title_product_activity">Products</string>
+    <string name="title_order_activity">Orders</string>
+    <string name="title_history_activity">Order History</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="action_categories">Categories</string>
+    <string name="all_categories">ALL PRODUCTS</string>
+
+    <string name="action_orders">Orders</string>
+    <string name="action_products">Products</string>
+
+    <string name="search_hint">Search products and categories</string>
+    <string name="unit_NA">Product not available by unit</string>
+    <string name="case_NA">Product not available by case</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="navigator_header_name">Fulcrum Coffee Order App</string>
+    <string name="navigator_header_email">Copyright &#169; fulcrumcoffee.com</string>
+
+    <string name="title_nav_profile">User Profile</string>
+    <string name="title_nav_sync">Sync Products</string>
+    <string name="title_nav_history">Order History</string>
+    <string name="title_nav_upload">Upload Orders</string>
+
+    <string name="title_group_settings">Settings</string>
+    <string name="title_nav_config">Mail Configuration</string>
+    <string name="title_nav_debug">Debug Tools</string>
+
+
+    <string name="error_no_order">Please add products</string>
+    <string name="error_empty_order">Order is empty</string>
+
+    <string name="choose_email_client">Choose email client</string>
+    <string name="error_no_history">No order history yet</string>
+    <string name="error_no_email_client">No email client installed</string>
+    <string name="error_no_email_address">Enter email address for submitting orders</string>
+    <string name="title_submit_confirmation">Submit order?</string>
+    <string name="message_submit_confirmation">The order will be sent to:</string>
+</resources>

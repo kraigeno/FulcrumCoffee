@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--android:clickable="true"-->
+    <TextView
+        android:id="@+id/pi_name"
+        android:text=""
+        android:paddingStart="@dimen/item_margin_padding"
+        android:paddingEnd="@dimen/item_margin_padding"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textColor="@android:color/black"
+        android:onClick="checkItem" />
+
+    <Button
+        android:id="@+id/pi_unit_button"
+        android:text=""
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:textColor="@android:color/black"
+        android:onClick="checkUnit"
+        style="@android:style/Widget.Material.Button.Inset" />
+
+    <Button
+        android:id="@+id/pi_case_button"
+        android:text=""
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:textColor="@android:color/black"
+        android:onClick="checkCase"
+        style="@android:style/Widget.Material.Button.Inset" />
+
+</LinearLayout>
+
+    <!--android:background="?android:attr/activatedBackgroundIndicator"-->
+
+
+    <!--android:descendantFocusability="blocksDescendants"-->
+
+
+    <!--android:layout_toLeftOf="@id/pi_name"-->
+    <!--android:layout_alignTop="@id/pi_name"-->
+    <!--android:layout_alignBottom="@id/pi_name"-->
+
+
+
+
+    <!--android:descendantFocusability="blocksDescendants"-->
+    <!--android:contextClickable="false"-->
+
+
+    <!--android:duplicateParentState="true"-->
+
+
+    <!--android:textStyle="bold|normal"-->
+
+
+    <!--<CheckBox-->
+    <!--android:layout_width="0dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text=""-->
+    <!--android:id="@+id/checkBox"-->
+    <!--android:layout_gravity="right"-->
+    <!--android:layout_weight="1"-->
+    <!--android:duplicateParentState="true" />-->
+
+
+
+<!--<selector xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--<item android:state_checked="false" android:color="#6000" />-->
+<!--<item android:color="#09c" />-->
+<!--</selector>-->
+
+    <!--android:listSelector="@android:color/darker_gray"-->

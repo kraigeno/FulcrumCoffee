@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@mipmap/ic_storage_black_24dp"
+            android:title="@string/title_nav_history" />
+        <item
+            android:id="@+id/nav_sync"
+            android:icon="@mipmap/ic_donut_small_black_24dp"
+            android:title="@string/title_nav_sync" />
+        <item
+            android:id="@+id/nav_upload"
+            android:icon="@mipmap/ic_cloud_upload_black_24dp"
+            android:title="@string/title_nav_upload" />
+    </group>
+
+    <!--TODO move to strings.xml-->
+
+    <item android:title="@string/title_group_settings">
+        <menu>
+            <item
+                android:id="@+id/nav_profile"
+                android:icon="@mipmap/ic_person_pin_black_24dp"
+                android:title="@string/title_nav_profile" />
+            <item
+                android:id="@+id/nav_config"
+                android:icon="@mipmap/ic_settings_black_24dp"
+                android:title="@string/title_nav_config" />
+            <item
+                android:id="@+id/nav_debug"
+                android:icon="@mipmap/ic_adb_black_24dp"
+                android:title="@string/title_nav_debug" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,608 @@
+COFFEE	Unit Size	-1.00	Case Size	-1.00	0
+Sunset Dark Roast	1lb	9.99	5	39.99	1
+Urban Espresso Medium Roast	1lb	9.99	5	39.99	1
+Jazz Alley Nights Medium Roast	1lb	9.99	5	39.99	1
+Pike Street Dark Roast	1lb	9.99	5	39.99	1
+Broadway Dark Roast	1lb	9.99	5	39.99	1
+Silver Cup Medium Roast	1lb	9.99	5	39.99	1
+Snoho Mojo Medium Roast	1lb	9.99	5	39.99	1
+Queen City Dark Roast	1lb	9.99	5	39.99	1
+Smugglers Dark Roast	1lb	9.99	5	39.99	1
+Ursa Minor Light Roast	1lb	9.99	5	39.99	1
+Wonderland Light Roast	1lb	9.99	5	39.99	1
+CHOCOLATE AND CARAMEL	Unit Size	-1.00	Case Size	-1.00	0
+Davinci Caramel Sauce	64oz	11.54	6	69.24	1
+Davinci Caramel Sauce	128oz	20.79	4	83.16	1
+Davinci Chocolate Sauce	128oz	20.25	4	81.00	1
+Davinci Pumpkin Pie Sauce	64oz	19.05	6	114.30	1
+Davinci Sugar Free Chocolate Sauce	64oz	14.14	6	84.84	1
+Davinci White Chocolate Sauce	64oz	9.76	6	58.56	1
+Davinci White Chocolate Sauce	128oz	20.79	4	83.16	1
+Dilettante Bittersweet Sauce	22oz	8.40	N/A	0.00	1
+Dilettante Bittersweet Sauce	64oz	21.99	N/A	0.00	1
+Dilettante Semisweet Sauce	22oz	8.40	N/A	0.00	1
+Ghirardelli White Chocolate Powder	10lb	35.89	N/A	0.00	1
+Ghirardelli White Chocolate Powder	25lb	77.57	N/A	0.00	1
+Ghirardelli Sweet Ground Chocolate	30lb	85.80	N/A	0.00	1
+Ghirardelli Caramel Sauce	64oz	14.09	6	84.54	1
+Ghirardelli Chocolate Sauce	62oz	13.75	6	82.50	1
+Gosh That's Good Sugar Free White Chocolate Vintage Can	2.5lb	40.00	4	160.00	1
+Gosh That's Good Sugar Free White Chocolate Bag	2lb	25.00	4	95.00	1
+Gosh That's Good Sugar Free Classic Chocolate Can	2lb	35.00	4	140.00	1
+Gosh That's Good Sugar Free Classic Chocolate Bag	2lb	25.00	4	95.00	1
+Hershey's Syrup #10 Can	8lb	8.79	6	52.74	1
+Hershey's Chocolate Syrup Jug	7.5lb	9.91	6	59.46	1
+Hershey's Dark Chocolate Syrup Jug	7.5lb	13.84	4	55.36	1
+Jean's Sugar Free White Chocolate Decadence Tub	2.5lb	45.25	N/A	0.00	1
+Jean's Sugar Free Dark Chocolate Decadence Tub	2lb	35.00	N/A	0.00	1
+Lyons Caramel Sauce Can	66oz	7.95	6	47.70	1
+Torani Caramel Sauce	64oz	14.85	4	59.40	1
+Torani Dark Chocolate Sauce	64oz	13.35	4	53.40	1
+Torani Peppermint Bark Sauce	64oz	14.85	4	59.40	1
+Torani Pumpkin Pie Sauce	64oz	14.85	4	59.40	1
+Torani White Chocolate Sauce	64oz	14.85	4	59.40	1
+Torani Sugar Free Caramel Sauce	64oz	16.75	4	67.00	1
+Torani Sugar Free Chocolate Sauce	64oz	14.85	4	59.40	1
+Torani Sugar Free White Chocolate Sauce	64oz	16.75	4	67.00	1
+Monin Caramel Sauce	64oz	14.95	4	59.80	1
+Monin Chocolate Sauce	64oz	14.95	4	59.80	1
+Monin White Chocolate Sauce	64oz	14.95	4	59.80	1
+Monin SF Chocolate Sauce	64oz	16.45	4	65.80	1
+Monin SF White Chocolate Sauce	64oz	16.45	4	65.80	1
+Swiss Miss Sugar Free Cocoa	13.8oz	5.96	N/A	0.00	1
+Mocafe Mexican Spiced Cocoa	3lb	15.53	4	62.12	1
+SMOOTHIES	Unit Size	-1.00	Case Size	-1.00	0
+Big Train 20 Below Frozen Hot Chocolate	56oz	19.11	5	95.55	1
+Big Train Caramel Latte	56oz	19.11	5	95.55	1
+Big Train Coffee	56oz	19.11	5	95.55	1
+Big Train Cookies & Cream	56oz	19.11	5	95.55	1
+Big Train Green Tea	56oz	19.11	5	95.55	1
+Big Train Java Chip	56oz	19.11	5	95.55	1
+Big Train Kona Mocha	56oz	19.11	5	95.55	1
+Big Train Mocha	56oz	19.11	5	95.55	1
+Big Train Spiced Chai	56oz	19.11	4	76.44	1
+Big Train Sugar Free Mocha	56oz	19.11	5	95.55	1
+Big Train Sugar Free Vanilla Latte	56oz	19.11	5	95.55	1
+Big Train Sugar Free Vanilla Chai	56oz	19.11	4	76.44	1
+Big Train Vanilla Chai	56oz	19.11	4	76.44	1
+Big Train Vanilla Latte	56oz	19.11	5	95.55	1
+Big Train Vanilla Smoothie	56oz	19.11	5	95.55	1
+Big Train White Chocolate	56oz	19.11	5	95.55	1
+Big Train Decaf Spiced Chai	56oz	19.11	5	95.55	1
+Cappuccine Caramel Latte	48oz	18.64	5	93.20	1
+Cappuccine Chocolate Decadence	48oz	18.64	5	93.20	1
+Cappuccine Red Velvet	48oz	18.64	5	93.20	1
+Cappuccine Coconut Cream	48oz	18.64	5	93.20	1
+Cappuccine Coconut Mocha	48oz	18.64	5	93.20	1
+Cappuccine Frosted Latte	48oz	21.00	5	105.00	1
+Cappuccine Latte Frappe	48oz	18.64	5	93.20	1
+Cappuccine Matcha Frappe Green Tea	48oz	21.00	5	105.00	1
+Cappuccine Mocha Glacier	48oz	21.00	5	105.00	1
+Cappuccine Mocha Frappe	48oz	18.64	5	93.20	1
+Cappuccine Spiced Chai	48oz	18.64	5	93.20	1
+Cappuccine Extreme Toffee	48oz	21.00	5	105.00	1
+Cappuccine Vanilla Smoothie	48oz	18.64	5	93.20	1
+Cappuccine Vanilla Chai	48oz	18.64	5	93.20	1
+Cappuccine Vanilla Express	48oz	18.64	5	93.20	1
+Cappuccine White Chocolate Symphony	48oz	18.64	5	93.20	1
+Jet Arctic Lemonade	64oz	11.95	6	71.70	1
+Jet Green Apple	64oz	11.95	6	71.70	1
+Jet Mango Mania	64oz	11.95	6	71.70	1
+Jet Extreme Peach	64oz	11.95	6	71.70	1
+Jet Pomegranate, Blueberry	64oz	12.95	6	77.70	1
+Jet Strawberry Bomb	64oz	11.95	6	71.70	1
+Jet Strawberry Banana	64oz	11.95	6	71.70	1
+Jet Berry Blast	64oz	12.95	6	77.70	1
+Jet Carribean Colada	64oz	11.95	6	71.70	1
+Torani Blueberry Pomegranate Real Fruit	64oz	12.95	6	77.70	1
+Torani Green Apple Real Fruit	64oz	11.95	6	71.70	1
+Torani Mango Real Fruit	64oz	11.95	6	71.70	1
+Torani Peach Real Fruit	64oz	11.95	6	71.70	1
+Torani Pina Colada Real Fruit	64oz	11.95	6	71.70	1
+Torani Strawberry Real Fruit	64oz	11.95	6	71.70	1
+Torani Strawberry Banana Real Fruit	64oz	11.95	6	71.70	1
+Torani Raspberry Real Fruit	64oz	11.95	6	71.70	1
+Torani Wildberry Real Fruit	64oz	12.95	6	77.70	1
+Torani Peach Puree	33.8oz	14.50	4	58.00	1
+Torani Pina Colada Puree	33.8oz	14.50	4	58.00	1
+Torani Mango Puree	33.8oz	14.50	4	58.00	1
+Torani Strawberry Puree	33.8oz	14.50	4	58.00	1
+Torani Real Creme Frappe Base-Plain	50.7oz	9.65	8	77.20	1
+Torani Real Creme Frappe Base-Coffee	50.7oz	9.65	8	77.20	1
+Yoguccino	64oz	7.33	6	44.00	1
+SODAS, MIXERS, WATER & JUICE	Unit Size	-1.00	Case Size	-1.00	0
+Frizz Coffee (Case Only)	8.5oz	0.00	24	34.99	1
+Club Soda	33.8oz	0.90	15	13.50	1
+Coke	12oz	0.52	32	12.99	1
+Diet Coke	12oz	0.52	32	12.99	1
+Sprite	12oz	0.52	32	12.99	1
+Red Bull Energy Drink (Case Only)	8.3oz	0.00	24	41.85	1
+Red Bull Sugar Free (Case Only)	8.3oz	0.00	24	41.85	1
+Tropicana Orange Juice (Case Only)	10oz	0.00	24	16.55	1
+Tree Top Apple Juice (Case Only)	10oz	0.00	24	15.62	1
+Bottled Water (Case Only)	16.9oz	0.00	35	6.79	1
+Sparkling Water Talking Rain (Case Only)	16oz	0.00	24	16.38	1
+Alpine Apple Cider Packets	48ct	10.55	N/A	0.00	1
+Country Time Lemonade Bag	1bag	3.98	N/A	0.00	1
+DAIRY ALTERNATIVES	Unit Size	-1.00	Case Size	-1.00	0
+Rice Dream Original Enriched Rice Milk	32oz	3.00	12	36.00	1
+Kirkland Soy Milk Plain	32oz	1.61	12	19.32	1
+Kirkland Soy Milk Vanilla	32oz	1.61	12	19.32	1
+Pacific Almond Milk Original - Barista Series	32oz	2.55	12	30.60	1
+Pacific Almond Milk Vanilla	32oz	2.73	12	32.76	1
+Pacific Coconut Milk - Barista Series	32oz	2.55	12	30.60	1
+Pacific Hemp Milk Plain	32oz	3.26	12	39.12	1
+Pacific Hemp Milk Vanilla	32oz	3.26	12	39.12	1
+Pacific Rice Milk	32oz	2.45	12	29.40	1
+Pacific Rice Milk Vanilla	32oz	2.45	12	29.40	1
+Pacific Soy Milk Plain - Barista Series	32oz	2.40	12	28.80	1
+Pacific Soy Milk Vanilla - Barista Series	32oz	2.45	12	29.40	1
+LEAF TEA, TEA CONCENTRATES AND CHAI	Unit Size	-1.00	Case Size	-1.00	0
+Republic of Tea Concentrate Green Tea Matcha	64oz	32.00	N/A	0.00	1
+Republic of Tea Assam Breakfast	50ct	8.40	N/A	0.00	1
+Republic of Tea British Breakfast Black	50ct	8.40	N/A	0.00	1
+Republic of Tea Blueberry Green	50ct	8.25	N/A	0.00	1
+Republic of Tea Blackberry Sage Black	50ct	8.25	N/A	0.00	1
+Republic of Tea Cinnamon Plum Black	50ct	8.25	N/A	0.00	1
+Republic of Tea Chamomile Lemon	36ct	8.70	N/A	0.00	1
+Republic of Tea Earl Greyer Black	50ct	8.40	N/A	0.00	1
+Republic of Tea Ginger Peach Black	50ct	8.70	N/A	0.00	1
+Republic of Tea Ginger Peach Black Decaf	50ct	9.75	N/A	0.00	1
+Republic of Tea Ginger Peach Green	50ct	8.25	N/A	0.00	1
+Republic of Tea Honey Ginseng Green	50ct	8.25	N/A	0.00	1
+Republic of Tea Ginseng Peppermint	50ct	8.40	N/A	0.00	1
+Republic of Tea Kiwi Pear Green	50ct	8.25	N/A	0.00	1
+Republic of Tea Orange Ginger Mint Herbal	36ct	8.40	N/A	0.00	1
+Republic of Tea Passion Fruit Papaya Black	50ct	8.25	N/A	0.00	1
+Republic of Tea Peoples Green	50ct	8.70	N/A	0.00	1
+Republic of Tea Pineapple Ginger Green	50ct	8.25	N/A	0.00	1
+Republic of Tea Pomegranate Green	50ct	8.75	N/A	0.00	1
+Republic of Tea Raspberry Quince Black	50ct	8.25	N/A	0.00	1
+Republic of Tea Good Hope Vanilla Red	36ct	8.70	N/A	0.00	1
+Republic of Tea Vanilla Almond Black	50ct	8.40	N/A	0.00	1
+Republic of Tea Wild Blueberry Fair Trade Black	50ct	8.40	N/A	0.00	1
+Republic of Tea Wildberry Plum Green	50ct	8.25	N/A	0.00	1
+Lipton Black Tea	104ct	3.79	N/A	0.00	1
+Tazo Tea Awake Black	24ct	5.47	N/A	0.00	1
+Tazo Tea Calm Chamomile Herbal	24ct	5.47	N/A	0.00	1
+Tazo Tea Earl Grey Black	24ct	5.47	N/A	0.00	1
+Tazo Tea Passion Herbal	24ct	5.47	N/A	0.00	1
+Tazo Tea Refresh Mint Herbal	24ct	5.47	N/A	0.00	1
+Tazo Tea Wild Sweet Orange Herbal	24ct	5.47	N/A	0.00	1
+Tazo Tea Zen Green Tea	24ct	5.47	N/A	0.00	1
+Stash Tea Black English Breakfast	30ct	4.00	N/A	0.00	1
+Stash Tea Chai Spice Black	30ct	4.79	N/A	0.00	1
+Stash Tea Earl Gray Black	30ct	4.00	N/A	0.00	1
+Stash Tea Green	30ct	4.00	N/A	0.00	1
+Stash Tea Chamomile Herbal	30ct	4.00	N/A	0.00	1
+Stash Tea Jasmine Blossom Green	30ct	4.00	N/A	0.00	1
+Stash Tea Lemon Ginger Herbal	30ct	4.00	N/A	0.00	1
+Stash Tea Orange Spice Black	30ct	4.00	N/A	0.00	1
+Stash Tea Pomegranate Raspberry Green	30ct	4.47	N/A	0.00	1
+Stash Tea Peppermint Herbal	30ct	4.00	N/A	0.00	1
+Stash Tea Wild Raspberry Hibiscus Herbal	30ct	4.00	N/A	0.00	1
+My Chai Chai Tea Concentrate	64oz	29.11	N/A	0.00	1
+Oregon Chai Tea Concentrate	32oz	3.76	12	45.12	1
+Sugar Free Oregon Chai Tea Concentrate	32oz	5.12	12	61.44	1
+Torani Traditional Chai Concentrate	32oz	3.76	6	22.56	1
+Torani Spicy Chai Concentrate	32oz	3.76	6	22.56	1
+SNACKS	Unit Size	-1.00	Case Size	-1.00	0
+Fresh Oranges	10lb	11.66	N/A	0.00	1
+Butter Chips	200ct	16.24	N/A	0.00	1
+The Original Butter Horn	12ct	6.25	N/A	0.00	1
+Uncle Seth's Pink Cookies	18ct	16.24	N/A	0.00	1
+Baker's Breakfast Cookies Banana Walnut	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Caramel Apple	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Double Chocolate Chunk	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Fruit Nut	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Gingerbread - Seasonal	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Oatmeal Raisin	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Peanut Butter	12ct	15.83	N/A	0.00	1
+Baker's Breakfast Cookies Pumpkin - Seasonal	12ct	15.83	N/A	0.00	1
+Dilettante Almond	18ct	17.28	N/A	0.00	1
+Dilettante Dipped Almond	18ct	21.75	N/A	0.00	1
+Dilettante Orange Dipped	18ct	17.99	N/A	0.00	1
+Dilettante Tri Chocolate Dipped	18ct	17.99	N/A	0.00	1
+Lollipops	300ct	9.91	N/A	0.00	1
+Dog Bones	4lb	5.88	N/A	0.00	1
+Umpqua Oats Oatmeal Variety Pack	12ct	25.00	N/A	0.00	1
+SWEETENERS & TOPPINGS	Unit Size	-1.00	Case Size	-1.00	0
+Equal	800ct	13.93	N/A	0.00	1
+Honey Bear	24oz	6.50	3	19.50	1
+Honey	5lb	17.89	N/A	0.00	1
+N'Joy Non Dairy Creamer	16oz	1.47	N/A	0.00	1
+Splenda Sweetener	1000ct	25.00	N/A	0.00	1
+Sugar Packets	2000ct	10.96	N/A	0.00	1
+Sugar Bulk	10lb	7.33	N/A	0.00	1
+Raw Sugar	500ct	10.98	N/A	0.00	1
+Raw Sugar Bulk	6lb	11.45	N/A	0.00	1
+Sweet & Low	1500ct	15.22	N/A	0.00	1
+Chocolate Topping	5.5oz	5.20	N/A	0.00	1
+Cinnamon Topping	5.5oz	5.20	N/A	0.00	1
+Nutmeg Topping	5.5oz	5.20	N/A	0.00	1
+Vanilla Powder Topping	5.5oz	5.20	N/A	0.00	1
+White Chocolate Topping	5.5oz	5.20	N/A	0.00	1
+ENERGY MIXES & ADDITIVES	Unit Size	-1.00	Case Size	-1.00	0
+EFS Burn Fat Away	1oz	19.50	N/A	0.00	1
+EFS Energy Drops	1oz	19.50	N/A	0.00	1
+BLAST Energy Concentrate Cranberry Grape	33.8oz	30.68	4	122.72	1
+BLAST Energy Concentrate Combo Pack	67.6oz	61.36	N/A	0.00	1
+Gosh That's Good Bev Rev Powder	8.5oz	36.00	N/A	0.00	1
+Gosh That's Good Bev Rev Liquid	32oz	25.00	N/A	0.00	1
+Gosh That's Good Liquid Bev Rev Spout	1ea	6.00	N/A	0.00	1
+TORANI SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Almond (Orgeat)	750ml	4.59	12	55.08	1
+Almond Roca	750ml	4.59	12	55.08	1
+Amaretto	750ml	4.59	12	55.08	1
+Apple	750ml	4.59	12	55.08	1
+Banana	750ml	4.59	12	55.08	1
+Blackberry	750ml	4.59	12	55.08	1
+Blueberry	750ml	4.59	12	55.08	1
+Blood Orange	750ml	4.59	12	55.08	1
+Blue Raspberry	750ml	4.59	12	55.08	1
+Bourbon Caramel	750ml	4.59	12	55.08	1
+Brown Sugar Cinnamon	750ml	4.59	12	55.08	1
+Butterscotch	750ml	4.59	12	55.08	1
+Butter Pecan	750ml	4.59	12	55.08	1
+Butter Rum	750ml	4.59	12	55.08	1
+Cane Sugar (Simple Syrup)	750ml	4.96	4	19.84	1
+Caramel	750ml	4.59	12	55.08	1
+Salted Caramel	750ml	4.59	12	55.08	1
+Chocolate Chip Cookie Dough	750ml	4.59	12	55.08	1
+Creme De Cacao	750ml	4.59	12	55.08	1
+Creme De Menthe	750ml	4.59	12	55.08	1
+Cherry	750ml	4.59	12	55.08	1
+Cherry Lime	750ml	4.59	12	55.08	1
+Cheesecake	750ml	4.59	12	55.08	1
+Chocolate Milano	750ml	4.59	12	55.08	1
+Chocolate Mint	750ml	4.59	12	55.08	1
+Cinnamon	750ml	4.59	12	55.08	1
+Coconut	750ml	4.59	12	55.08	1
+Coffee	750ml	4.59	12	55.08	1
+Cupcake	750ml	4.59	12	55.08	1
+English Toffee	750ml	4.59	12	55.08	1
+French Vanilla	750ml	4.59	12	55.08	1
+Gingerbread	750ml	4.59	12	55.08	1
+Ginger Lemongrass	750ml	4.59	12	55.08	1
+Grape	750ml	4.59	12	55.08	1
+Green Apple	750ml	4.59	12	55.08	1
+Guava	750ml	4.59	12	55.08	1
+Hazelnut	750ml	4.59	12	55.08	1
+Hibiscus	750ml	4.69	4	18.76	1
+Honey Vanilla	750ml	4.59	12	55.08	1
+Huckleberry	750ml	4.59	12	55.08	1
+Irish Cream	750ml	4.59	12	55.08	1
+Kiwi	750ml	4.59	12	55.08	1
+Lavender	750ml	4.59	12	55.08	1
+Lemon	750ml	4.59	12	55.08	1
+Lime	750ml	4.59	12	55.08	1
+Macadamia Nut	750ml	4.59	12	55.08	1
+Mango	750ml	4.59	12	55.08	1
+Maple	750ml	4.59	12	55.08	1
+Marron (Chestnut)	750ml	4.59	12	55.08	1
+Tangerine	750ml	4.59	12	55.08	1
+Orange - Dairy Friendly	750ml	4.59	12	55.08	1
+Passion Fruit	750ml	4.59	12	55.08	1
+Peanut Butter	750ml	4.59	12	55.08	1
+Peach	750ml	4.59	12	55.08	1
+Peppermint	750ml	4.59	12	55.08	1
+Pineapple	750ml	4.59	12	55.08	1
+Pomegranate	750ml	4.59	12	55.08	1
+Pumpkin Pie	750ml	4.59	12	55.08	1
+Pumpkin Spice	750ml	4.59	12	55.08	1
+Red Ruby Grapefruit	750ml	4.59	12	55.08	1
+Red Raspberry-Dairy Friendly	750ml	4.59	12	55.08	1
+Root Beer	750ml	4.59	12	55.08	1
+Rose	750ml	4.59	12	55.08	1
+Shortbread	750ml	4.59	12	55.08	1
+Spicy Kola Nut	750ml	4.59	12	55.08	1
+Strawberry	750ml	4.59	12	55.08	1
+Sweet Heat	750ml	4.59	12	55.08	1
+Tiramisu	750ml	4.59	12	55.08	1
+Toasted Marshmallow	750ml	4.59	12	55.08	1
+Vanilla	750ml	4.59	12	55.08	1
+Vanilla Bean	750ml	4.59	12	55.08	1
+Watermelon	750ml	4.59	12	55.08	1
+Chocolate Bianco (White Chocolate)	750ml	4.59	12	55.08	1
+Zesty Lemon	750ml	4.69	4	18.76	1
+TORANI SUGAR FREE SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Sugar Free Almond	750ml	4.59	12	55.08	1
+Sugar Free Almond Roca	750ml	4.59	12	55.08	1
+Sugar Free Black Cherry	750ml	4.59	12	55.08	1
+Sugar Free Brown Sugar Cinnamon	750ml	4.59	12	55.08	1
+Sugar Free Caramel	750ml	4.59	12	55.08	1
+Sugar Free Salted Caramel	750ml	4.59	12	55.08	1
+Sugar Free Chocolate	750ml	4.59	12	55.08	1
+Sugar Free Coconut	750ml	4.59	12	55.08	1
+Sugar Free Coffee	750ml	4.59	12	55.08	1
+Sugar Free English Toffee	750ml	4.59	12	55.08	1
+Sugar Free Gingerbread	750ml	4.59	12	55.08	1
+Sugar Free French Vanilla	750ml	4.59	12	55.08	1
+Sugar Free Hazelnut	750ml	4.59	12	55.08	1
+Sugar Free Irish Cream	750ml	4.59	12	55.08	1
+Sugar Free Mango	750ml	4.59	12	55.08	1
+Sugar Free Orange	750ml	4.59	12	55.08	1
+Sugar Free Peach	750ml	4.59	12	55.08	1
+Sugar Free Peppermint	750ml	4.59	12	55.08	1
+Sugar Free Pumpkin Pie	750ml	4.59	12	55.08	1
+Sugar Free Red Raspberry-Dairy Friendly	750ml	4.59	12	55.08	1
+Sugar Free S'mores	750ml	4.59	12	55.08	1
+Sugar Free Strawberry	750ml	4.59	12	55.08	1
+Sugar Free Vanilla	750ml	4.59	12	55.08	1
+Sugar Free Vanilla Bean	750ml	4.59	12	55.08	1
+Sugar Free Watermelon	750ml	4.59	12	55.08	1
+Sugar Free White Chocolate	750ml	4.59	12	55.08	1
+TORANI SWEETENER COLLECTION	Unit Size	-1.00	Case Size	-1.00	0
+Agave Nectar	750ml	8.95	4	35.80	1
+Honey	750ml	8.95	4	35.80	1
+TORANI SIGNATURE COLLECTION	Unit Size	-1.00	Case Size	-1.00	0
+White Peach	750ml	5.95	12	71.40	1
+DAVINCI SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Almond	750ml	4.59	12	55.08	1
+Amaretto	750ml	4.59	12	55.08	1
+Apple	750ml	4.59	12	55.08	1
+B-52	750ml	4.59	12	55.08	1
+Banana	750ml	4.59	12	55.08	1
+Blackberry	750ml	4.59	12	55.08	1
+Black Cherry	750ml	4.59	12	55.08	1
+Blueberry	750ml	4.59	12	55.08	1
+Butter Pecan	750ml	4.59	12	55.08	1
+Butter Rum	750ml	4.59	12	55.08	1
+Butterscotch	750ml	4.59	12	55.08	1
+Cane Sugar (Simple Syrup)	750ml	4.96	12	59.52	1
+Caramel	750ml	4.59	12	55.08	1
+Creme De Menthe	750ml	4.59	12	55.08	1
+Cherry	750ml	4.59	12	55.08	1
+Cinnamon	750ml	4.59	12	55.08	1
+Coconut	750ml	4.59	12	55.08	1
+Coffee Liqueur (Kahlua)	750ml	4.59	12	55.08	1
+Cookie Dough	750ml	4.59	12	55.08	1
+English Toffee	750ml	4.59	12	55.08	1
+French Vanilla	750ml	4.59	12	55.08	1
+German Chocolate Cake	750ml	4.59	12	55.08	1
+Gingerbread	750ml	4.59	12	55.08	1
+Grape	750ml	4.59	12	55.08	1
+Guava	750ml	4.59	12	55.08	1
+Hazelnut (Classic)	750ml	4.59	12	55.08	1
+Huckleberry	750ml	4.59	12	55.08	1
+Irish Creme	750ml	4.59	12	55.08	1
+Kiwi	750ml	4.59	12	55.08	1
+Lemon	750ml	4.59	12	55.08	1
+Lemonade Concentrate	750ml	6.89	6	41.34	1
+Lime	750ml	4.59	12	55.08	1
+Mango	750ml	4.59	12	55.08	1
+Macadamia Nut	750ml	4.59	12	55.08	1
+Orange	750ml	4.59	12	55.08	1
+Passion Fruit	750ml	4.59	12	55.08	1
+Peanut Butter	750ml	4.59	12	55.08	1
+Pina Colada	750ml	4.59	12	55.08	1
+Peach	750ml	4.59	12	55.08	1
+Peppermint	750ml	4.59	12	55.08	1
+Pineapple	750ml	4.59	12	55.08	1
+Praline	750ml	4.59	12	55.08	1
+Pumpkin Pie	750ml	4.59	12	55.08	1
+Raspberry	750ml	4.59	12	55.08	1
+Root Beer	750ml	4.59	12	55.08	1
+Strawberry	750ml	4.59	12	55.08	1
+Toasted Marshmallow	750ml	4.59	12	55.08	1
+Vanilla	750ml	4.59	12	55.08	1
+Watermelon	750ml	4.59	12	55.08	1
+DAVINCI SUGAR FREE SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Sugar Free Almond	750ml	4.59	12	55.08	1
+Sugar Free Amaretto	750ml	4.59	12	55.08	1
+Sugar Free B-52	750ml	4.59	12	55.08	1
+Sugar Free Banana	750ml	4.59	12	55.08	1
+Sugar Free Blueberry	750ml	4.59	12	55.08	1
+Sugar Free Butter Rum	750ml	4.59	12	55.08	1
+Sugar Free Butterscotch	750ml	4.59	12	55.08	1
+Sugar Free Caramel	750ml	4.59	12	55.08	1
+Sugar Free Creme De Menthe	750ml	4.59	12	55.08	1
+Sugar Free Cherry	750ml	4.59	12	55.08	1
+Sugar Free Cinnamon	750ml	4.59	12	55.08	1
+Sugar Free Coconut	750ml	4.59	12	55.08	1
+Sugar Free English Toffee	750ml	4.59	12	55.08	1
+Sugar Free Hazelnut	750ml	4.59	12	55.08	1
+Sugar Free Irish Creme	750ml	4.59	12	55.08	1
+Sugar Free Coffee Liquor (Kahlua)	750ml	4.59	12	55.08	1
+Sugar Free Lime	750ml	4.59	12	55.08	1
+Sugar Free Macadamia Nut	750ml	4.59	12	55.08	1
+Sugar Free Peanut Butter	750ml	4.59	12	55.08	1
+Sugar Free Peach	750ml	4.59	12	55.08	1
+Sugar Free Peppermint	750ml	4.59	12	55.08	1
+Sugar Free Pineapple	750ml	4.59	12	55.08	1
+Sugar Free Raspberry	750ml	4.59	12	55.08	1
+Sugar Free Sweetener (Simple Syrup)	750ml	4.96	12	59.52	1
+Sugar Free Strawberry	750ml	4.59	12	55.08	1
+Sugar Free Toasted Marshmallow	750ml	4.59	12	55.08	1
+Sugar Free Vanilla	750ml	4.59	12	55.08	1
+Sugar Free Watermelon	750ml	4.59	12	55.08	1
+Sugar Free White Chocolate	750ml	4.59	12	55.08	1
+MONIN SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Blackberry	750ml	5.70	12	68.40	1
+Blueberry	750ml	5.70	12	68.40	1
+Caramel	750ml	5.70	12	68.40	1
+Coconut	750ml	5.70	12	68.40	1
+Green Mint	750ml	5.70	12	68.40	1
+Hazelnut	750ml	5.70	12	68.40	1
+Peach	750ml	5.70	12	68.40	1
+Peppermint	750ml	5.70	12	68.40	1
+Pomegranate	750ml	5.70	12	68.40	1
+Pumpkin Spice	750ml	5.70	12	68.40	1
+Pure Cane	750ml	5.70	12	68.40	1
+Raspberry	750ml	5.70	12	68.40	1
+Salted Caramel	750ml	5.70	12	68.40	1
+Strawberry	750ml	5.70	12	68.40	1
+Toasted Marshmallow	750ml	5.70	12	68.40	1
+Toffee Nut	750ml	5.70	12	68.40	1
+Vanilla	750ml	5.70	12	68.40	1
+Watermelon	750ml	5.70	12	68.40	1
+MONIN SUGAR FREE SYRUPS	Unit Size	-1.00	Case Size	-1.00	0
+Sugar Free Almond	750ml	5.70	12	68.40	1
+Sugar Free Hazelnut	750ml	5.70	12	68.40	1
+Sugar Free Raspberry	750ml	5.70	12	68.40	1
+Sugar Free Vanilla	750ml	5.70	12	68.40	1
+COLD CUPS	Unit Size	-1.00	Case Size	-1.00	0
+Dart 12oz Cold Cup Clear	50ct	4.15	20	83.00	1
+Dart 16oz Cold Cup Clear	50ct	4.41	20	88.20	1
+Dart 20oz Cold Cup Clear	50ct	6.84	12	82.08	1
+Dart 24oz Cold Cup Clear	50ct	6.10	12	73.20	1
+Dart 32oz Cold Cup Clear	25ct	4.83	20	96.60	1
+Fulcrum 12oz Cold Cup Clear	50ct	4.05	20	81.00	1
+Fulcrum 16oz Cold Cup Clear	50ct	4.48	20	89.60	1
+Fulcrum 20oz Cold Cup Clear	50ct	4.99	12	59.88	1
+Fulcrum 24oz Cold Cup Clear	50ct	5.95	12	71.40	1
+Solo 12oz Cold Cup Clear	50ct	4.40	20	88.00	1
+Solo 16oz Cold Cup Clear	50ct	4.58	20	91.60	1
+Solo 20oz Cold Cup Clear	50ct	6.52	20	130.40	1
+Solo 24oz Cold Cup Clear	50ct	7.51	12	90.12	1
+Solo 32oz Cold Cup Clear	25ct	7.77	12	93.24	1
+Urban City Logo 16oz Cold Cup	50ct	4.68	20	93.60	1
+Urban City Logo 20oz Cold Cup	25ct	2.89	24	69.36	1
+Urban City Logo 24oz Cold Cup	50ct	5.89	12	70.68	1
+HOT CUPS	Unit Size	-1.00	Case Size	-1.00	0
+Solo Bistro 8oz Hot Cup	50ct	2.88	20	57.60	1
+Solo Bistro 12oz Hot Cup	50ct	3.65	20	73.00	1
+Solo Bistro 16oz Hot Cup	50ct	4.42	20	88.40	1
+Solo Bistro 20oz Hot Cup	40ct	4.62	15	69.30	1
+Solo Bistro 24oz Hot Cup	25ct	3.65	20	73.00	1
+Fulcrum 8oz Hot Cup	50ct	2.60	20	52.00	1
+Fulcrum 12oz Hot Cup	50ct	3.47	20	69.40	1
+Fulcrum 16oz Hot Cup	50ct	3.98	20	79.60	1
+Fulcrum 20oz Hot Cup	40ct	4.38	15	65.70	1
+Fulcrum 24oz Hot Cup	25ct	3.55	20	71.00	1
+Solo Mistique 8oz Hot Cup	50ct	2.88	20	57.60	1
+Solo Mistique 12oz Hot Cup	50ct	3.65	20	73.00	1
+Solo Mistique 16oz Hot Cup	50ct	4.42	20	88.40	1
+Solo Mistique 20oz Hot Cup	40ct	4.62	15	69.30	1
+Solo Mistique 24oz Hot Cup	25ct	3.65	20	73.00	1
+Urban City Logo 8oz Hot Cup	50ct	2.88	20	57.60	1
+Urban City Logo 12oz Hot Cup	50ct	3.65	20	73.00	1
+Urban City Logo 16oz Hot Cup	50ct	4.42	20	88.40	1
+Urban City Logo 20oz Hot Cup	40ct	4.62	15	69.30	1
+Urban City Logo 24oz Hot Cup	25ct	3.45	20	69.00	1
+Solo White 8oz Hot Cup	50ct	2.88	20	57.60	1
+Solo White 12oz Hot Cup	50ct	3.65	20	73.00	1
+Solo White 16oz Hot Cup	50ct	4.42	20	88.40	1
+Solo White 20oz Hot Cup	40ct	4.62	15	69.30	1
+Solo White 24oz Hot Cup	25ct	3.65	20	73.00	1
+COLD LIDS	Unit Size	-1.00	Case Size	-1.00	0
+Cruzin Caps	1pack	6.30	N/A	0.00	1
+Dart 12/24oz Flat Cold Lid	100ct	3.69	10	36.90	1
+Dart 32oz Flat Cold Lid	50ct	2.55	20	51.00	1
+Karat 12/24oz Dome Cold Lid (fits Dart cups)	50ct	2.48	20	49.60	1
+Dart 32oz Dome Cold Lid	50ct	4.10	20	82.00	1
+Solo 12/20oz Flat Cold Lid	100ct	3.97	10	39.70	1
+Solo 16/24oz Flat Cold Lid	100ct	3.69	10	36.90	1
+Solo 32oz Flat Cold Lid	50ct	5.62	10	56.20	1
+Solo 12/20oz Dome Cold Lid	100ct	6.08	10	60.80	1
+Solo 16/24oz Dome Cold Lid	100ct	6.32	10	63.20	1
+Solo 32oz Dome Cold Lid	25ct	5.74	20	114.80	1
+HOT LIDS	Unit Size	-1.00	Case Size	-1.00	0
+Solo 8oz Black Hot Lid	100ct	4.48	10	44.80	1
+Solo 8oz White Hot Lid	100ct	4.48	10	44.80	1
+International Paper 8oz Black Hot Lid	100ct	3.28	10	32.80	1
+Solo 12/16/20oz Black Hot Lid	100ct	4.48	10	44.80	1
+Solo 12/16/20oz White Hot Lid	100ct	4.48	10	44.80	1
+International Paper 12/16/20oz Black Hot Lid	100ct	3.85	12	46.20	1
+STRAWS, STIRRERS, CARRIERS, SLEEVES	Unit Size	-1.00	Case Size	-1.00	0
+Zombie Straws 10.5" Red	500ct	8.11	N/A	0.00	1
+Fat Straws 6" Black	500ct	4.29	N/A	0.00	1
+Fat Straws 6" Red	500ct	4.29	N/A	0.00	1
+Fat Straws 6" Neon	500ct	4.29	N/A	0.00	1
+Fat Straws 8" Neon	400ct	3.75	N/A	0.00	1
+Fat Straws 8" Black	500ct	4.29	N/A	0.00	1
+Skinny Straws 8" Black	500ct	1.95	N/A	0.00	1
+Skinny Straws 5.25" Black	100ct	2.54	N/A	0.00	1
+Skinny Straws 8" Neon	500ct	2.10	N/A	0.00	1
+Skinny Straws 8" Red	500ct	2.10	N/A	0.00	1
+Medium Straws 7 3/4" Black	250ct	3.25	N/A	0.00	1
+Wrapped Straws 7.5'' Clear	3000ct	12.49	N/A	0.00	1
+Wooden Coffee Stirrers	1000ct	4.07	N/A	0.00	1
+Carrying Trays 4 cup	75ct	12.18	4	48.72	1
+Java Jackets	500ct	21.57	N/A	0.00	1
+JANITORIAL SUPPLIES	Unit Size	-1.00	Case Size	-1.00	0
+First Aid Kit 48pc	1ea	4.00	N/A	0.00	1
+409 Cleaner with Spray Bottle	1gal	16.64	N/A	0.00	1
+Bleach	1gal	2.28	N/A	0.00	1
+Windex with Spray Bottle	1gal	14.61	N/A	0.00	1
+Joy Dish Soap	38oz	7.49	N/A	0.00	1
+Dial Hand Soap Refill	1gal	10.00	N/A	0.00	1
+Dial Hand Soap	7.5oz	4.16	N/A	0.00	1
+Bar Towels 14x17	12ct	8.33	N/A	0.00	1
+Scotch Bright Scouring Pads	20ct	10.09	N/A	0.00	1
+Scotch Bright Sponge	1ea	0.87	N/A	0.00	1
+Garbage Bags White 13 Gallon	200ct	22.12	N/A	0.00	1
+Garbage Bags Large Black 33 Gallon	90ct	24.92	N/A	0.00	1
+Garbage Bags Black 55 Gallon	100ct	43.99	N/A	0.00	1
+Toilet Paper	1ea	0.63	30	18.90	1
+Paper Towels	1ea	1.55	12	18.60	1
+OFFICE SUPPLIES	Unit Size	-1.00	Case Size	-1.00	0
+#10 No Window Envelope	500ct	8.74	N/A	0.00	1
+Papermate Pens	12ct	1.61	N/A	0.00	1
+Scotch Tape w/dispenser	1ea	2.49	N/A	0.00	1
+EQUIPMENT CLEANING AND MAINTENCE SUPPLIES	Unit Size	-1.00	Case Size	-1.00	0
+Purocaff Espresso Machine Cleaner	20oz	10.19	N/A	0.00	1
+Java Kleen	16oz	5.19	N/A	0.00	1
+Sanitizer Tablets Chlor-Tab	100ct	27.90	N/A	0.00	1
+FOODSERVICE SUPPLIES	Unit Size	-1.00	Case Size	-1.00	0
+Saran Wrap Industrial Roll	1ea	25.60	N/A	0.00	1
+Wax Deli Sheets 6x6	1000ct	11.79	N/A	0.00	1
+Pastry Bag White #19 6x6	2000ct	40.00	N/A	0.00	1
+Paper Bag 6# White	500ct	17.24	N/A	0.00	1
+Glove, Food Handler Vinyl Large	100ct	7.12	N/A	0.00	1
+Food Safe Gel Lubricant	1ea	10.59	N/A	0.00	1
+Disp.Napkins Wht 332-01 250ct 6.5 x 13.25	625ct	3.95	N/A	0.00	1
+Napkin, Beverage 4x4 1 Ply White	500ct	4.27	N/A	0.00	1
+Napkins, Kirkland	260ct	2.55	N/A	0.00	1
+HARD GOODS & MERCANTILE	Unit Size	-1.00	Case Size	-1.00	0
+Disposable Knife	1000ct	9.26	N/A	0.00	1
+Disposable Fork	1000ct	8.98	N/A	0.00	1
+Disposable Spoons	1000ct	8.98	N/A	0.00	1
+DISPENSER PUMPS & SPOUTS	Unit Size	-1.00	Case Size	-1.00	0
+Torani Syrup Pump for 750ml Bottle White	1ea	2.50	N/A	0.00	1
+Torani Syrup Pump for 750ml Bottle Gold	1ea	2.50	N/A	0.00	1
+Monin Syrup Pump for 750ml Bottle White	1ea	2.50	N/A	0.00	1
+Dilettante Pump for 9lb Jug	1ea	8.95	N/A	0.00	1
+Davinci Sauce Pump	1ea	8.49	N/A	0.00	1
+Torani Frusia / Caffioco/Sauce Pump	1ea	12.35	N/A	0.00	1
+Ghirardelli Sauce Pump	1ea	13.25	N/A	0.00	1
+Torani Sauce Pump for 0.5oz Measurement	1ea	8.60	N/A	0.00	1
+Monin Sauce Pump	1ea	8.95	N/A	0.00	1
+Hershey Chocolate Jug Pump	1ea	18.73	N/A	0.00	1
+Stainless Pump for #10 Can	1ea	157.55	N/A	0.00	1
+Syrup Spouts Black	12ct	3.32	N/A	0.00	1
+Syrup Spouts White	12ct	3.32	N/A	0.00	1
+Hershey's Chocolate 10# Plastic Pump	1ea	19.00	N/A	0.00	1
+Lyon's Sauce Pump	1ea	7.93	N/A	0.00	1
+Republic of Tea Concentrate Pump	1ea	6.00	N/A	0.00	1
+750ML SYRUP RACKS	Unit Size	-1.00	Case Size	-1.00	0
+Torani Syrup Wire Rack 6 Bottle	1ea	33.00	N/A	0.00	1
+SMALL WARES & TOOLS	Unit Size	-1.00	Case Size	-1.00	0
+Airpot Brush Foam	1ea	7.26	N/A	0.00	1
+2.2 Ltr Airpot SS Non-Breakable Liner	1ea	36.88	N/A	0.00	1
+Whip Cream Chargers 24ct	24ct	13.25	N/A	0.00	1
+Coffee Decanter Glass	1ea	5.99	N/A	0.00	1
+Coffee Decanter Decaf Glass	1ea	5.99	N/A	0.00	1
+Ice Scoop 24oz Stainless	1ea	11.27	N/A	0.00	1
+Ice Scoop 30oz White	1ea	7.19	N/A	0.00	1
+Vitamix Blender Tamper	1ea	11.40	N/A	0.00	1
+Shot Glass 1oz W/ Line	1ea	3.09	12	37.08	1
+Measuring Cup 8oz Plastic	1ea	6.99	N/A	0.00	1
+11" Stainless Steel Bar Spoon	1ea	4.00	N/A	0.00	1
+Thermometer, Hand, Steam 5" w/clip	1ea	5.63	N/A	0.00	1
+Thermometer, Large Face 6.5" w/clip	1ea	10.50	N/A	0.00	1
+Thermometer Clip	1ea	3.76	N/A	0.00	1
+Toddy Maker- 1lb	1ea	41.32	N/A	0.00	1
+Toddy Filters Replacement	2pk	4.17	N/A	0.00	1
+Toddy Plug	2pk	2.76	N/A	0.00	1
+Toddy Decanter with Lid	1ea	23.94	N/A	0.00	1
+Toddy Maker Commercial 5gal	1ea	91.34	N/A	0.00	1
+Toddy Nylon Commercial Filter	1ea	2.00	N/A	0.00	1
+Coffee Filter 12 Cup case	1000ct	10.79	N/A	0.00	1
+Brew Rite Coffee Filter Urn 13x5 1.5gl	500ct	19.41	N/A	0.00	1
+Coffee Filter 2 Gal 15x5.5	500ct	27.29	N/A	0.00	1
+Steaming Pitcher 16oz	1ea	15.99	N/A	0.00	1
+Steaming Pitcher 20oz	1ea	15.99	N/A	0.00	1
+Steaming Pitcher 33oz	1ea	15.99	N/A	0.00	1
+Tamper, Wood Handle, Mtl.Base, 58mm	1ea	49.95	N/A	0.00	1
+Tall Fold Napkin Dispenser Napkin	1ea	8.08	N/A	0.00	1

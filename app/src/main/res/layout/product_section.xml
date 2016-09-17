@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/material_blue_grey_800">
+
+    <TextView
+        android:id="@+id/ps_name"
+        android:text=""
+        android:paddingStart="@dimen/item_margin_padding"
+        android:paddingEnd="@dimen/item_margin_padding"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|normal" />
+
+    <TextView
+        android:id="@+id/ps_unitSize"
+        android:text=""
+        android:layout_height="wrap_content"
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|normal"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/ps_caseSize"
+        android:text=""
+        android:layout_height="wrap_content"
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textColor="@android:color/white"
+        android:textStyle="bold|normal"
+        android:gravity="center" />
+</LinearLayout>

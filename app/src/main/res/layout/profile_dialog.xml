@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<GridLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:columnCount="2"
+    android:rowCount="4"
+    android:padding="@dimen/item_margin_padding"
+    android:useDefaultMargins="true" >
+
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: "
+        android:layout_row="0"
+        android:layout_column="0" />
+
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="0"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:hint="Your name"
+        android:inputType="textCapWords" />
+
+    <TextView
+        android:id="@+id/tv_company"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="0"
+        android:text="Company: " />
+
+    <EditText
+        android:id="@+id/et_company"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="1"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:hint="Your company name"
+        android:inputType="textCapWords" />
+
+
+    <TextView
+        android:id="@+id/tv_sendto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="0"
+        android:text="Send to: " />
+
+    <EditText
+        android:id="@+id/et_sendto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="2"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:inputType="textEmailAddress"
+        android:hint="To: email address" />
+
+    <TextView
+        android:id="@+id/tv_copyto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="3"
+        android:layout_column="0"
+        android:text="Copy to: " />
+
+    <EditText
+        android:id="@+id/et_copyto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_row="3"
+        android:layout_column="1"
+        android:layout_gravity="fill_horizontal"
+        android:inputType="textEmailAddress"
+        android:hint="CC: email address" />
+
+</GridLayout>
+</ScrollView>
+
+    <!--android:ems="10"-->
+
+
+<!--<TextView-->
+<!--android:id="@+id/tv_username"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_row="4"-->
+<!--android:layout_column="0"-->
+<!--android:text="Username: " />-->
+
+<!--<EditText-->
+<!--android:id="@+id/et_username"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_row="4"-->
+<!--android:layout_column="1"-->
+<!--android:layout_gravity="fill_horizontal"-->
+<!--android:inputType="textEmailAddress"-->
+<!--android:hint="Username (gmail address)" />-->
+
+<!--<TextView-->
+<!--android:id="@+id/tv_password"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_row="5"-->
+<!--android:layout_column="0"-->
+<!--android:text="Password: " />-->
+
+<!--<EditText-->
+<!--android:id="@+id/et_password"-->
+<!--android:layout_width="wrap_content"-->
+<!--android:layout_height="wrap_content"-->
+<!--android:layout_row="5"-->
+<!--android:layout_column="1"-->
+<!--android:layout_gravity="fill_horizontal"-->
+<!--android:inputType="textPassword"-->
+<!--android:hint="Gmail password" />-->

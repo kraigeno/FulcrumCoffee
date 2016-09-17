@@ -1,0 +1,119 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/oi_name"
+        android:text=""
+        android:paddingStart="@dimen/item_margin_padding"
+        android:paddingEnd="@dimen/item_margin_padding"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="5"
+        android:gravity="center_vertical"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:textColor="@android:color/black"
+        android:longClickable="false" />
+
+    <TextView
+        android:id="@+id/oi_quantyty1"
+        android:text=""
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/oi_quantyty2"
+        android:text=""
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/oi_quantyty3"
+        android:text=""
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:textColor="@android:color/black" />
+    <TextView
+        android:id="@+id/oi_quantyty4"
+        android:text=""
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:gravity="center"
+        android:textColor="@android:color/black" />
+
+    <Button
+        android:id="@+id/oi_minus"
+        android:text=" - "
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:textSize="@dimen/button_quantity_textSize"
+        android:textStyle="bold|normal"
+        android:textColor="@android:color/holo_blue_dark"
+        android:onClick="decreaseQuantity"
+        style="@android:style/Widget.Material.Button.Inset"
+        android:longClickable="false" />
+    <TextView
+        android:id="@+id/oi_quantyty"
+        android:text=""
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="bold|normal"
+        android:gravity="center"
+        android:textColor="@android:color/black" />
+    <Button
+        android:id="@+id/oi_plus"
+        android:text=" + "
+        android:layout_height="match_parent"
+        android:layout_width="@dimen/button_layout_width"
+        android:layout_weight="1"
+        android:textSize="@dimen/button_quantity_textSize"
+        android:textStyle="bold|normal"
+        android:textColor="@android:color/holo_red_dark"
+        android:onClick="increaseQuantity"
+        style="@android:style/Widget.Material.Button.Inset" />
+    <TextView
+        android:id="@+id/di_spacer"
+        android:text=""
+        android:layout_width="@dimen/button_layout_width"
+        android:maxWidth="@dimen/button_layout_width"
+        android:layout_height="match_parent"
+        android:layout_weight="0"
+        android:gravity="end"
+        android:minHeight="@dimen/item_minHeight"
+        android:textSize="@dimen/item_textSize"
+        android:textStyle="normal"
+        android:textColor="@android:color/black" />
+
+</LinearLayout>
+
+
+    <!--android:onClick="deleteOrder"-->
+    <!--android:layout_gravity="center_horizontal"-->
