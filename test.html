@@ -1,0 +1,48 @@
+<script>
+
+var snd = new Audio("file://C:\\Users\\Public\\Music\\Sample Music\\Kalimba.mp3");
+console.info(snd);
+
+var audioLocationNet = "http://www.stephaniequinn.com/Music/Commercial%20DEMO%20-%2015.mp3";
+var netSound = document.createElement("audio");
+netSound.setAttribute("src", audioLocationNet);
+
+var audioLocationLocal = "file://C:\\Users\\Public\\Music\\Sample Music\\Kalimba.mp3";
+var localSound = document.createElement("audio");
+localSound.setAttribute("src", audioLocationLocal);
+
+console.info(netSound);
+console.info(localSound);
+
+function playAudioNet()
+{
+    console.info("Playing remote audio...");
+    netSound.currentTime = 0;
+    netSound.play();
+    alert("Playing local audio...");
+    netSound.pause();
+}
+
+function playAudioLocal()
+{
+    console.info("Playing local audio...");
+    localSound.currentTime = 0;
+    localSound.play();
+    alert("Playing local audio...");
+    localSound.pause();
+}
+
+
+function playSound()
+{
+    console.info("Playing sound...");
+    snd.play();
+    alert("Playing");
+    snd.pause();
+}
+</script>
+
+<input type=button value=PlayAudioNet onClick="playAudioNet()"/>
+<input type=button value=PlayAudioLocal onClick="playAudioLocal()"/>
+
+<input type=button value=PlaySound onClick="playSound()"/>
